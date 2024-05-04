@@ -31,18 +31,20 @@ author:
   email            : "rico.pohle@tohoku.ac.jp" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : https://arxiv.org/a/pohle_r_1.html 
   googlescholar    : "https://scholar.google.com/citations?user=q0EfF80AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7430-8839"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  scoupus          : "https://www.scopus.com/authid/detail.uri?authorId=57190396027&origin=AuthorEval"
+  researchmap      : "https://researchmap.jp/pohle?lang=en"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/rico-pohle"
+  github           : #"https://github.com/rico-pohle"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
