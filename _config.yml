@@ -25,9 +25,9 @@ author:
   name             : "Rico Pohle"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  location         : "Sendai, Japan"
+  employer         : "IMR - Tohoku University"
+  url              : "https://www.imr.tohoku.ac.jp/en/"
   email            : "rico.pohle@tohoku.ac.jp" 
 
   # Academic websites
