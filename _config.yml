@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-7430-8839"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scoupus          : "https://www.scopus.com/authid/detail.uri?authorId=57190396027&origin=AuthorEval"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57190396027&origin=AuthorEval"
   researchmap      : "https://researchmap.jp/pohle?lang=en"
 
   # Repositories and software development
