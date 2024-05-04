@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Sendai, Japan"
   employer         : "IMR - Tohoku University"
-  uri              : "https://www.imr.tohoku.ac.jp/en/"
+  url              : # "https://www.imr.tohoku.ac.jp/en/"
   email            : "rico.pohle@tohoku.ac.jp" 
 
   # Academic websites
