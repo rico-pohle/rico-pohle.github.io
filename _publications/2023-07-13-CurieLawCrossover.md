@@ -1,7 +1,7 @@
 ---
 title: "Curie-law crossover in spin liquids"
 collection: publications
-permalink: /publication/2023-07-13-CurieLawCrossover
+permalink: /publication/2023-07-13-CurieLawCrossover.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-07-13
 venue: 'Journal 1'
